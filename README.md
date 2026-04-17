@@ -10,7 +10,7 @@ It is a simple API built and deployed on a Linux server. The application runs on
 
 ## 🚀 Live URL
 
-https://blessingeo.redirectme.net
+http://blessingeo.redirectme.net
 
 ---
 
@@ -74,9 +74,9 @@ Response:
 
 Response:
 {
-  "name": "YOUR NAME ",
-  "email": "your-email@example.com",
-  "github": "https://github.com/USERNAME"
+  "name": "Blessing Osarumwense",
+  "email": "enorediabeo@gmail.com",
+  "github": "https://github.com/Enoredia"
 }
 
 ---
